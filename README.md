@@ -3,7 +3,12 @@
 **PawPlan** is a modern, responsive web application built with **React, Vite, Tailwind CSS, and Leaflet (OpenStreetMap)** designed for pet parents in **Pune, Maharashtra, India**. It encourages dog owners to swap sedentary phone screen time for healthy outdoor trail time, coordinate pet care across household members, and build a trusted local pet community.
 
 ---
+## 📌Visit Project 
 
+📌Live Deployed Web App: https://harshvyavahare11.github.io/PawPlan/
+GitHub Repository: https://github.com/Harshvyavahare11/PawPlan
+
+---
 ## ✨ Features
 
 1. **Dashboard (Screen Time to Green Time):**
